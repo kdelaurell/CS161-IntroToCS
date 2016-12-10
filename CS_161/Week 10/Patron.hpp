@@ -1,3 +1,11 @@
+
+/********************************************************
+ * Name: Kyle De Laurell
+ * Date: 11/29/2015
+ * Description: This is the Patron class header
+ * file.
+ *******************************************************/
+
 #ifndef PATRON_HPP
 #define PATRON_HPP
 
