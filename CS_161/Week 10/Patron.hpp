@@ -1,4 +1,3 @@
-
 /********************************************************
  * Name: Kyle De Laurell
  * Date: 11/29/2015
@@ -13,8 +12,7 @@
 #include <vector>
 #include "Book.hpp"
 
-//class LibraryItem;
-
+//class Patron
 class Patron
 {
 private:
@@ -32,5 +30,4 @@ public:
     double getFineAmount();
     void amendFine(double amount);
 };
-
 #endif
