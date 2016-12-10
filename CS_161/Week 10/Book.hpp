@@ -1,4 +1,4 @@
-ifndef BOOK_HPP
+#ifndef BOOK_HPP
 #define BOOK_HPP
 
 #include <string>
