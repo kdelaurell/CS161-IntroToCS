@@ -1,4 +1,4 @@
-fndef LIBRARY_HPP
+#ifndef LIBRARY_HPP
 #define LIBRARY_HPP
 
 #include <string>
